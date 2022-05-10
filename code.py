@@ -1,4 +1,4 @@
-file_text = open('G:/!Программист/Илья/short.txt', 'r')
+file_text = open('https://github.com/anatoliynt/word_search/blob/main/short.txt', 'r')
 word_search = input('Введите слово для поиска: ')
 # new = file_text.read().find(word_search)
 # print(new)
